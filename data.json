@@ -1,0 +1,20 @@
+{
+  "profile": {
+    "name": "Aytaj Bunyadova",
+    "education": [
+      {
+        "degree": "Bakalavr, Kompüter Elmləri",
+        "university": "Azərbaycan Texniki Universiteti",
+        "year": "2018-2022"
+      }
+    ],
+    "work": [
+      {
+        "position": "Junior Proqramçı",
+        "company": "Tech Corp",
+        "duration": "2022-indiyədək"
+      }
+    ],
+    "skills": ["JavaScript", "HTML", "CSS", "Python"]
+  }
+}
